@@ -8,4 +8,4 @@ Jadi diharapkan dalam repository tersebut terdapat 2 branches, yakni:
 
 2) setup and fire analytics (step 2)
 ## Source Code
-Source code berada pada [Releases Page](https://github.com/hoerzz/Survival-Shooter/releases) yang file zip beserta apk
+Source code berada pada [Releases Page](https://github.com/hoerzz/Implementasi-Firebase/releases/tag/v1.0.1.1) yang file zip beserta apk
